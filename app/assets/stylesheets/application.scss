@@ -41,3 +41,19 @@ td {
     padding: 2vw;
   }
 }
+
+.navbar-default{
+  background-color: rgb(9, 12, 91);
+  .navbar-nav{
+    li{
+      a{
+        color:white;
+      }
+    }
+  }
+}
+.navbar-default{
+  .navbar-brand{
+    color:white;
+  }
+}
