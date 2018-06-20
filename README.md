@@ -1,24 +1,10 @@
-# README
+# Sparta-Advanced-Models-Lab-MVC
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Description
 
-Things you may want to cover:
+Building out our understanding of rails and making a index page for the models we have created.
+We have also added bootstrap to the pages and this has led to us being able to style it.
 
-* Ruby version
+# Challenges
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+The main challenge I had was selecting the necessary elements on the page and styling it as it is very different when doing so in rais in comparison to normal front end styling. 
